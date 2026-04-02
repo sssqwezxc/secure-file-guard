@@ -61,7 +61,7 @@ Desktop application for file encryption and decryption with password using Pytho
 
 Ниже представлена диаграмма вариантов использования программы. Она показывает, как пользователь взаимодействует с приложением: запускает программу, выбирает файл, вводит пароль, выполняет шифрование или расшифровку, а также просматривает историю действий.
 
-![Use Case](schema/use_case.png)
+![Use Case](use_case.png)
 
 ---
 
@@ -69,7 +69,7 @@ Desktop application for file encryption and decryption with password using Pytho
 
 Ниже представлена блок-схема алгоритма работы программы. Она отражает основную логику приложения: выбор файла, ввод пароля, выбор действия, проверку условий и получение результата.
 
-![Блок-схема](schema/flowchart.png)
+![Блок-схема](flowchart.png)
 
 ---
 
